@@ -1,6 +1,6 @@
 # Second-VueJS-project
-## Webpage that displays at most 10 quotes
-## You can add and deletes quotes.
+### Webpage that displays at most 10 quotes
+### You can add and deletes quotes.
 
 ## To run:
 
