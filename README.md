@@ -7,5 +7,5 @@ cd to project folder<br>
 npm install<br>
 npm run dev<br>
 
-### Webpage that displays at most 10 quotes
-### You can add and deletes quotes. 
+**Webpage that displays at most 10 quotes
+You can add and deletes quotes**
